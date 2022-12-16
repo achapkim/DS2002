@@ -1,0 +1,43 @@
+{"intents": [
+        {"tag": "Q1",
+         "patterns": ["What movie was popular 20 years ago?", "What movie was popular twenty years ago?"],
+         "context_set": ""
+        },
+        {"tag": "Q2",
+         "patterns": ["What were 3 movies popular 10 years ago?", "What were three movies popular ten years ago?", "What were 3 movies popular ten years ago?", "What were three movies popular 10 years ago?"],
+         "context_set": ""
+        },
+        {"tag": "Q3",
+         "patterns": ["What was the genre of the top movie in 2000?", "Genre of top movie in 2000", "What was the genre of the top movie in two thousand?"],
+         "context_set": ""
+        },
+        {"tag": "Q4",
+         "patterns": ["What movie had the top IMDB rating in the past 5 years?", "What movie had the highest IMDB rating in the past 5 years?", "What movie had the top IMDB rating in the past five years?", "What movie had the highest IMDB rating in the past five years?"],
+         "context_set": ""
+        },
+        {"tag": "Q5",
+         "patterns": ["What is the longest duration of a movie in 2010?", "What is the longest duration of a movie in twenty ten?"],
+         "context_set": ""
+        },
+        {"tag": "Q6",
+         "patterns": ["What was the top show on Netflix 5 years ago?", "What was the top show on Netflix five years ago?", "What was the top show 5 years ago?", "What was the top show five years ago?"],
+         "context_set": ""
+        },
+        {"tag": "Q7",
+         "patterns": ["What was the genre of the highest-rated show in 2008?", "What was the genre of the highest-rated show in two thousand eight?"],
+         "context_set": ""
+        },
+        {"tag": "Q8",
+         "patterns": ["What show had the top IMBD rating?","What show had the highest IMBD rating?"],
+         "context_set": ""
+        },
+        {"tag": "Q9",
+         "patterns": ["Which show had the longest duration?", "Show with longest duration"],
+         "context_set": ""
+        },
+        {"tag": "Q10",
+         "patterns": ["What year had the most top rated movies?", "Year with the most top rated movies "],
+         "context_set": ""
+        }
+   ]
+}
